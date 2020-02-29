@@ -5,16 +5,14 @@ layout: default
 
 
 # **SECURE YOUR:**
-
-   
     
-    ## **_USERS**
+    ## **USERS**
     
-    ## **_SERVERS**
+    ## **SERVERS**
   
-      ## **_WORKSTATIONS**
+    ## **WORKSTATIONS**
    
-      ## **_ENVIRONMENT**
+    ## **ENVIRONMENT**
   
 
 
