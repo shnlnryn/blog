@@ -6,6 +6,27 @@ layout: default
 
 [**Security Hardening**](https://github.com/shnlnryn/security-hardening)
 
+[**Azure**] (https://github.com/shnlnryn/azure)
+
+[**Office 365**](https://github.com/shnlnryn/o365)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
