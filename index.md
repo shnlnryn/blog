@@ -6,13 +6,13 @@ layout: default
 
 ## **SECURE YOUR:**
     
-    ### **USERS**
+    ### USERS
     
-    ### **SERVERS**
+    ### SERVERS
   
-    ### **WORKSTATIONS**
-   
-    ### **ENVIRONMENT**
+    ### WORKSTATIONS
+    
+    ### ENVIRONMENT
   
 
 
