@@ -1,5 +1,5 @@
 title: SECURE ALL!
 description: A blog for Information Technology Security (and general tech tips)
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
