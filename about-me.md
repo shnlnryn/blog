@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 #### Great to have you on my site!
 
